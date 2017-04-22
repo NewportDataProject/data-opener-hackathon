@@ -1,0 +1,15 @@
+# Site Settings
+title: Newport Data Project
+email: hello@newportdataproject.org
+baseurl: "/data-opener-hackathon"
+url: "http://newportdataproject.org"
+twitter_username: NewportData
+github_username: NewportDataProject
+
+# Collections
+collections:
+  steps:
+    output: false # set to false if we don't need individual pages for the steps.
+
+# Build Settings
+markdown: kramdown
