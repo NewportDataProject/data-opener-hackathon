@@ -1,7 +1,7 @@
 # Site Settings
 title: Newport Data Project
 email: hello@newportdataproject.org
-baseurl: "/data-opener-hackathon/"
+baseurl: "/data-opener-hackathon"
 url: "http://newportdataproject.org"
 twitter_username: NewportData
 github_username: NewportDataProject
