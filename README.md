@@ -20,4 +20,4 @@ This directory is a [collection](http://jekyllrb.com/docs/collections/) of files
 ## Preview locally with Jekyll
 First, install Jekyll.  If you have windows, [these](https://labs.sverrirs.com/jekyll/) are good step by step instructions to get started. For other operating systems, follow [these](http://jekyllrb.com/docs/installation/) instructions.
 
-Navigate to this repository on your machine in the console, and run `jekyll serve -w`. Open up a browser and go to `localhost:4000`, and you should see the site.
+Navigate to this repository on your machine in the console, and run `jekyll serve -w`. Open up a browser and go to `localhost:4000/data-opener-hackathon/`, and you should see the site.
