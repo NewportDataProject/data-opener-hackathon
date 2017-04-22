@@ -1,5 +1,7 @@
 <ul>
 {% for step in site.steps %}
-	<li>{{ step.name }} - {{ step.description }}
+	<li> <div><h2>{{ step.name }}</h2> 
+	{{ step.content }}
+	</div>
 {% endfor %}
 </ul>
